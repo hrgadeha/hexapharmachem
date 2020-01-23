@@ -1,0 +1,30 @@
+{
+ "add_total_row": 0, 
+ "apply_user_permissions": 1, 
+ "creation": "2019-01-25 08:41:25.285793", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 0, 
+ "is_standard": "Yes", 
+ "json": "{\"add_total_row\": 0}", 
+ "modified": "2019-01-27 08:18:34.201000", 
+ "modified_by": "Administrator", 
+ "module": "Hexa PharmaChem", 
+ "name": "Partner Quatation", 
+ "owner": "Administrator", 
+ "ref_doctype": "Opportunity", 
+ "report_name": "Partner Quatation", 
+ "report_type": "Script Report", 
+ "roles": [
+  {
+   "role": "System Manager"
+  }, 
+  {
+   "role": "Sales Manager"
+  }, 
+  {
+   "role": "Partner"
+  }
+ ]
+}

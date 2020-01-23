@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include hexapharmachem *.css
+recursive-include hexapharmachem *.csv
+recursive-include hexapharmachem *.html
+recursive-include hexapharmachem *.ico
+recursive-include hexapharmachem *.js
+recursive-include hexapharmachem *.json
+recursive-include hexapharmachem *.md
+recursive-include hexapharmachem *.png
+recursive-include hexapharmachem *.py
+recursive-include hexapharmachem *.svg
+recursive-include hexapharmachem *.txt
+recursive-exclude hexapharmachem *.pyc
